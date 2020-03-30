@@ -1,11 +1,12 @@
 import React from 'react';
-import Basics from '../src/components/Basics'
+//import Basics from '../src/components/Basics'
+import CurvedLine from '../src/components/CurvedLine'
 
 function App() {
 
   return (
     <>
-      <Basics/>
+      <CurvedLine/>
     </>
   )
 }
