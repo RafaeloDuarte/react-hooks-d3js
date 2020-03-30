@@ -13,6 +13,6 @@ code {
 }
 
 svg {
-
   background-color: cadetblue;
+  overflow: visible;
 }
